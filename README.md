@@ -21,5 +21,8 @@
 - 🌱 estudando TypeScript e React.js
 - 📫 Contate-me no email: nicollyvscosta@gmail.com
 - 😄 Pronouns: ela/dela
-<a href="https://www.linkedin.com/in/nicolly-vieira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://www.linkedin.com/in/nicolly-vieira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+
 
